@@ -8,7 +8,7 @@
 <body>
     <h3>
         <?php
-        echo "Hellhhbmbkjbjbjhjvhjbhjbjbkjb o world!!! ini adalah halaman pertama PHP";
+        echo "AKU rawrrr";
  ?>
  </h3>
 </body>
