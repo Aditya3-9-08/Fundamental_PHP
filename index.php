@@ -8,7 +8,7 @@
 <body>
     <h3>
         <?php
-        echo "AKU rawrrr";
+        echo "AKU";
  ?>
  </h3>
 </body>
