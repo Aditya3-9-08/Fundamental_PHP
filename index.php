@@ -8,7 +8,7 @@
 <body>
     <h3>
         <?php
-        echo "n a i n i k";
+        echo "agus wifi";
  ?>
  </h3>
 </body>
